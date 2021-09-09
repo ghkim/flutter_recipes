@@ -1,6 +1,6 @@
 # ghkim_recipes
 
-A new Flutter project.
+플러터 UI 프로젝트
 
 ## Getting Started
 
